@@ -63,8 +63,5 @@ typings/
 # ParcelJS cache folder
 .cache/
 
-# ParcelJS build folder
-dist/
-
 # Local Netlify folder
 .netlify
